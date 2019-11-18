@@ -17,7 +17,7 @@ https://github.com/gayannilanga/magento-1-chat-extension
 
 - Extract the ZIP file
 - Remove README.md file in below path of the extracted folder   
-/magento-1-chat-extension-master/app/README.md  
+/magento-1-chat-extension-master/README.md  
 
 - Copy 'app' folder into 'app' folder of the M1 installation.
 
