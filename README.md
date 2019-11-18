@@ -6,7 +6,7 @@ This module developed and tested on Magento 1 community edition. Exact version u
 
 # System Requirements
 Linux OS (Ubuntu / CentOS)  
-Apache 2.4 or higher  
+Apache 2.2 or higher  
 PHP 5.6  
 Vanila Magento 1.9.4.2 community edition   
 
